@@ -4,7 +4,7 @@ layout: PageLayout
 sections:
   - elementId: ''
     colors: colors-f
-    title: We’re growing fast
+    title: We’re growing
     subtitle: You should join us.
     media:
       type: ImageBlock
@@ -39,7 +39,8 @@ sections:
   - elementId: ''
     colors: colors-a
     quote: >-
-      ## Being part of this team has been incredible. We’ve fill each other’s gaps, and we go to lunch together :)
+      ## Being part of this team has been incredible. We’ve fill each other’s
+      gaps, and we go to lunch together :)
     name: Carla Rogers
     title: Someone from the team
     styles:
@@ -73,7 +74,7 @@ sections:
         caption: Team meeting
     spacing: 0
     columns: 1
-    aspectRatio: 'auto'
+    aspectRatio: auto
     imageSizePx: 640
     showCaption: true
     enableHover: false
@@ -110,7 +111,9 @@ sections:
           **San Francisco**
 
 
-          Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and
+          Lorem Ipsum is simply dummy text of the printing and typesetting
+          industry. Lorem Ipsum has been the industry's standard dummy text ever
+          since the 1500s, when an unknown printer took a galley of type and
         styles:
           title:
             textAlign: left
@@ -134,7 +137,9 @@ sections:
           **San Francisco**
 
 
-          Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and
+          Lorem Ipsum is simply dummy text of the printing and typesetting
+          industry. Lorem Ipsum has been the industry's standard dummy text ever
+          since the 1500s, when an unknown printer took a galley of type and
         styles:
           title:
             textAlign: left
@@ -158,7 +163,9 @@ sections:
           **San Francisco**
 
 
-          Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and
+          Lorem Ipsum is simply dummy text of the printing and typesetting
+          industry. Lorem Ipsum has been the industry's standard dummy text ever
+          since the 1500s, when an unknown printer took a galley of type and
         styles:
           title:
             textAlign: left
@@ -182,7 +189,9 @@ sections:
           **San Francisco**
 
 
-          Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and
+          Lorem Ipsum is simply dummy text of the printing and typesetting
+          industry. Lorem Ipsum has been the industry's standard dummy text ever
+          since the 1500s, when an unknown printer took a galley of type and
         styles:
           title:
             textAlign: left
@@ -227,7 +236,9 @@ sections:
   - elementId: contact-form
     colors: colors-f
     title: Not seeing the right role? Contact us
-    text: We might have more roles soon, and we’ll contact you if we think there might be a good match
+    text: >-
+      We might have more roles soon, and we’ll contact you if we think there
+      might be a good match
     form:
       type: FormBlock
       elementId: contact-form
